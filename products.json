@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Smartphone Samsung",
+        "description": "Samsung Galaxy 23",
+        "price": 100000,
+        "thumbnail": "Sin imagen",
+        "code": "sam23",
+        "stock": 200,
+        "id": 1
+    },
+    {
+        "title": "Smartphone Apple",
+        "description": "Iphone 14",
+        "price": 250000,
+        "thumbnail": "Sin imagen",
+        "code": "iph14",
+        "stock": 50,
+        "id": 2
+    },
+    {
+        "title": "Smart TV LG",
+        "description": "Smart TV LG 55 pulagas",
+        "price": 190000,
+        "thumbnail": "Sin imagen",
+        "code": "lgtv55",
+        "stock": 15,
+        "id": 3
+    },
+    {
+        "title": "Smart TV Samsung",
+        "description": "Smart TV Samsung 65 pulgadas",
+        "price": 380000,
+        "thumbnail": "Sin imagen",
+        "code": "smtv65",
+        "stock": 12,
+        "id": 4
+    },
+    {
+        "title": "Smart TV Noblex",
+        "description": "Smart TV Noblex 49 pulgadas",
+        "price": 145000,
+        "thumbnail": "Sin imagen",
+        "code": "nxtv49",
+        "stock": 50,
+        "id": 5
+    },
+    {
+        "title": "Smart TV Noblex",
+        "description": "Smart TV Noblex 47 pulgadas",
+        "price": 130000,
+        "thumbnail": "Sin imagen",
+        "code": "nxtv47",
+        "stock": 50,
+        "id": 6
+    },
+    {
+        "title": "Smart TV Noblex",
+        "description": "Smart TV Noblex 42 pulgadas",
+        "price": 115000,
+        "thumbnail": "Sin imagen",
+        "code": "nxtv42",
+        "stock": 50,
+        "id": 7
+    },
+    {
+        "title": "Smart TV Noblex",
+        "description": "Smart TV Noblex 37 pulgadas",
+        "price": 100000,
+        "thumbnail": "Sin imagen",
+        "code": "nxtv37",
+        "stock": 50,
+        "id": 8
+    },
+    {
+        "title": "Smart TV Noblex",
+        "description": "Smart TV Noblex 32 pulgadas",
+        "price": 90000,
+        "thumbnail": "Sin imagen",
+        "code": "nxtv32",
+        "stock": 50,
+        "id": 9
+    },
+    {
+        "title": "Smart TV Noblex",
+        "description": "Smart TV Noblex 27 pulgadas",
+        "price": 75000,
+        "thumbnail": "Sin imagen",
+        "code": "nxtv27",
+        "stock": 50,
+        "id": 10
+    }
+]
